@@ -19,3 +19,7 @@ Open github with my account and select clone, it should use sourcetree to clone 
 
 ***Method 2***
 Use command line like "git clone <https://github.com/LaceyT/Learn.git>" with my account, then run "git checkout develop" due to "develop" is the branch i used to do the development
+
+## How to run the project
+
+1. go to the folder "learn" and run "npm run start". it will open a website with "localhost:3000"
