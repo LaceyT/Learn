@@ -22,4 +22,6 @@ Use command line like "git clone <https://github.com/LaceyT/Learn.git>" with my 
 
 ## How to run the project
 
-1. go to the folder "learn" and run "npm run start". it will open a website with "localhost:3000"
+1. go to the folder "learn" and run "npm install" (npm is shortcast of node package manager) to get all dependencies
+
+2. go to the folder "learn" and run "npm run start". it will open a website with "localhost:3000"
