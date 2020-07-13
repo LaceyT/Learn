@@ -1,11 +1,14 @@
 import React from 'react';
 
-function App() {
+function App(props) {
   return (
     <div className="App">
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          hello {props.name}
         </p>
         <a
           className="App-link"

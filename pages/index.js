@@ -4,7 +4,7 @@ import App from '../src/UI/App';
 function Index(props)
 {
   return (
-    <App />
+    <App name="Lacey"/>
   );
 }
 
