@@ -8,7 +8,7 @@ function App(props) {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          hello {props.name}
+          hello {props.name}, you are {props.age}
         </p>
         <a
           className="App-link"

@@ -1,10 +1,10 @@
 import React from 'react';
 import App from '../src/UI/App';
 
-function Index(props)
+function Index()
 {
   return (
-    <App name="Lacey"/>
+    <App name="Lacey" age="18"/>
   );
 }
 
